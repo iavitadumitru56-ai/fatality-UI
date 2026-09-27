@@ -6010,7 +6010,7 @@ function Fatality:CreateWatermark(parent)
 	shText.Size = UDim2.new(0, 0, 1, 0)
 	shText.BackgroundTransparency = 1
 	shText.FontFace = Fatality.FontSemiBold
-	shText.Text = "SH"
+	shText.Text = "HeadShot"
 	shText.TextColor3 = Fatality.Colors.Main
 	shText.TextSize = 14
 	shText.ZIndex = 304
